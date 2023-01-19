@@ -7,4 +7,4 @@ MartinFillon/MartinFillon is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Martin Fillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin Fillon)](https://github.com/anuraghazra/github-readme-stats)
+[![MartinFillon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin Fillon)](https://github.com/anuraghazra/github-readme-stats)
